@@ -1,6 +1,7 @@
 title: Kick Start Round A 2021 -  K-Goodness String
 author: Nico
-tags: []
+tags:
+  - Kick Start
 categories:
   - Algorithm
 date: 2021-03-22 02:37:00
