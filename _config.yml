@@ -79,12 +79,12 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:ainilili/ainilili.github.io.git
+  repository: https://github.com/ainilili/ainilili.github.io.git
   branch: master
 
 admin:
    username: nico
-   password_hash: $2a$10$YvkRViLILLPuThAIEEN70eR8.kxwMKnGxf6eSe34bAacv3rqlwJwG
+   password_hash: 
    secret: hey nico
    deployCommand: './admin_script/hexo-generate.sh'
 
